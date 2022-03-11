@@ -52,7 +52,7 @@ You must have only 1 pod unavailable during Rolling Update of Deployment
 
 # Minikube - Choose simple applications from internet e.g. nginx, httpd -        NGINX
 
-
+1. NGINX deployment  - deployment.yaml
 
 
 
