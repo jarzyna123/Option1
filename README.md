@@ -47,3 +47,16 @@ You must have only 1 pod unavailable during Rolling Update of Deployment
 2. Container in Pod, should not be running as root
 3. Provide any code that you required to accomplish this task
 4. You must document any steps that are not automated in the README.md
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
